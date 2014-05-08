@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Howsgame.App", "Howsgame.App\Howsgame.App.csproj", "{9CE9A12F-B649-4AEB-AB82-10224E31EBC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Howsgame.Dominio", "Howsgame.Dominio\Howsgame.Dominio.csproj", "{403BEA7C-99E0-4F04-B12C-05D61EF401B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Howsgame.Infra", "Howsgame.Repositorio\Howsgame.Infra.csproj", "{2F58A989-17A3-416D-BD9B-541D6DA80E54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F58A989-17A3-416D-BD9B-541D6DA80E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F58A989-17A3-416D-BD9B-541D6DA80E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F58A989-17A3-416D-BD9B-541D6DA80E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F58A989-17A3-416D-BD9B-541D6DA80E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{403BEA7C-99E0-4F04-B12C-05D61EF401B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403BEA7C-99E0-4F04-B12C-05D61EF401B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403BEA7C-99E0-4F04-B12C-05D61EF401B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403BEA7C-99E0-4F04-B12C-05D61EF401B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CE9A12F-B649-4AEB-AB82-10224E31EBC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE9A12F-B649-4AEB-AB82-10224E31EBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE9A12F-B649-4AEB-AB82-10224E31EBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE9A12F-B649-4AEB-AB82-10224E31EBC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Howsgame.App\Howsgame.App.csproj
+	EndGlobalSection
+EndGlobal
