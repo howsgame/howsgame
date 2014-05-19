@@ -6,6 +6,7 @@ namespace Howsgame.Repositorio
 	{
 		public GameRepositorio ()
 		{
+
 		}
 	}
 }
