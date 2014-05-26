@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Howsgame.App\MainActivity.cs" Line="19" Column="40" />
+      <File FileName="Howsgame.App\FlyOutContainer.cs" Line="20" Column="2" />
+      <File FileName="Howsgame.App\Resources\Resource.designer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Howsgame.App" expanded="True">
+            <Node name="Resources" expanded="True">
+              <Node name="drawable" expanded="True" />
+              <Node name="layout" expanded="True">
+                <Node name="ContentLayout.axml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Howsgame.App MonoForAntroid.PreferredDevice="Nexus 4" AndroidDeviceId-Debug="0277c1d78eccce12" />
+</Properties>

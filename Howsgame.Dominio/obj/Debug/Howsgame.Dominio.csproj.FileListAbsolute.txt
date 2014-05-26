@@ -1,0 +1,11 @@
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Dominio\bin\Debug\Howsgame.Dominio.dll
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Dominio\bin\Debug\Howsgame.Dominio.pdb
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Dominio\bin\Debug\Howsgame.Dominio.dll.mdb
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Dominio\bin\Debug\Howsgame.Dominio.apk
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Dominio\bin\Debug\Howsgame.Dominio-Signed.apk
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Dominio\obj\Debug\Howsgame.Dominio.dll
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Dominio\obj\Debug\Howsgame.Dominio.pdb
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Dominio\obj\Debug\android\bin\Howsgame.Dominio.apk
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Dominio\obj\Debug\res\values\strings.xml
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Dominio\obj\Debug\R.cs.flag
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Dominio\obj\Debug\uploadflags.txt

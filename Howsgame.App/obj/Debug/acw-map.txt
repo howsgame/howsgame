@@ -1,0 +1,3 @@
+Howsgame.App.MainActivity;howsgame.app.MainActivity
+Howsgame.App.FlyOutContainer;howsgame.app.FlyOutContainer
+Howsgame.App.FlyOutContainer.SmoothInterpolator;howsgame.app.FlyOutContainer_SmoothInterpolator

@@ -1,0 +1,11 @@
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Repositorio\bin\Debug\Howsgame.Repositorio.dll
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Repositorio\bin\Debug\Howsgame.Repositorio.pdb
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Repositorio\bin\Debug\Howsgame.Repositorio.dll.mdb
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Repositorio\bin\Debug\Howsgame.Repositorio.apk
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Repositorio\bin\Debug\Howsgame.Repositorio-Signed.apk
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Repositorio\obj\Debug\Howsgame.Repositorio.dll
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Repositorio\obj\Debug\Howsgame.Repositorio.pdb
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Repositorio\obj\Debug\android\bin\Howsgame.Repositorio.apk
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Repositorio\obj\Debug\res\values\strings.xml
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Repositorio\obj\Debug\R.cs.flag
+C:\Users\STARK\Documents\GitHub\howsgame\Howsgame.Repositorio\obj\Debug\uploadflags.txt
